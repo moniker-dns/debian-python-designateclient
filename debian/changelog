@@ -1,0 +1,17 @@
+python-monikerclient (0.0.1.alpha1.2.gd7e3514-1) precise; urgency=low
+
+  * Version bump
+
+ -- Kiall Mac Innes <kiall@hp.com>  Tue, 08 Jan 2013 13:43:36 +0000
+
+python-monikerclient (0.0.32.145a727-2) precise; urgency=low
+
+  * Remove setuptools-git build dep
+
+ -- Kiall Mac Innes <kiall@managedit.ie>  Sat, 29 Dec 2012 23:53:08 +0000
+
+python-monikerclient (0.0.32.145a727-1) precise; urgency=low
+
+  * Initial Packaging
+
+ -- Kiall Mac Innes <kiall@managedit.ie>  Sat, 29 Dec 2012 23:31:35 +0000

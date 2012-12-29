@@ -1,0 +1,23 @@
+Source: python-monikerclient
+Section: python
+Priority: optional
+Maintainer: Kiall Mac Innes <kiall@managedit.ie>
+Build-Depends: debhelper (>= 8.0.0),
+               python-setuptools,
+               python-all
+Standards-Version: 3.9.2
+
+Package: python-monikerclient
+Architecture: all
+Depends: python-pyparsing,
+         ${python:Depends},
+         ${misc:Depends}
+Description: Moniker Python Bindings
+ Moniker Python bindings
+
+Package: monikerclient
+Architecture: all
+Depends: python-monikerclient (= ${binary:Version}),
+         ${misc:Depends}
+Description: Moniker CLI
+ Moniker CLI

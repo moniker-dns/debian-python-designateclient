@@ -1,0 +1,4 @@
+stevedore python-stevedore
+cliff python-cliff
+jsonschema python-jsonschema
+keystoneclient python-keystoneclient
