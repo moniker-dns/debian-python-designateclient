@@ -1,2 +1,2 @@
 version=3
-http://tarballs.openstack.org/python-monikerclient/python-monikerclient-(?!master)(.*)\.tar\.gz
+http://tarballs.openstack.org/python-designateclient/python-designateclient-(?!master)(.*)\.tar\.gz

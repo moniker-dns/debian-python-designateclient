@@ -1,3 +1,33 @@
+python-designateclient (1.0.0-1) precise; urgency=high
+
+  * Update to Version 1.0.0
+
+ -- Kiall Mac Innes <kiall@hp.com>  Thu, 31 Oct 2013 12:51:17 +0000
+
+python-designateclient (0.0.5.4.gd9b516a-3) precise; urgency=high
+
+  * Add python-pbr build dep
+
+ -- Kiall Mac Innes <kiall@hp.com>  Wed, 30 Oct 2013 17:16:39 +0000
+
+python-designateclient (0.0.5.4.gd9b516a-2) precise; urgency=high
+
+  * Ensure `designate` bin file is installed
+
+ -- Kiall Mac Innes <kiall@hp.com>  Wed, 30 Oct 2013 15:10:22 +0000
+
+python-designateclient (0.0.5.4.gd9b516a-1) precise; urgency=high
+
+  * Version Bump
+
+ -- Kiall Mac Innes <kiall@hp.com>  Wed, 30 Oct 2013 15:10:22 +0000
+
+python-designateclient (0.0.5.3.g6fc37b8-1) precise; urgency=high
+
+  * Version Bump
+
+ -- Kiall Mac Innes <kiall@hp.com>  Wed, 30 Oct 2013 15:04:22 +0000
+
 python-monikerclient (0.0.1.alpha1.2.gd7e3514-1) precise; urgency=low
 
   * Version bump
